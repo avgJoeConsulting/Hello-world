@@ -5,3 +5,4 @@ making this a change and seeing what happens
 write this instead see how gets commited
 >>>>>>> e7a385e44d937ecad697e4e940f8fca8fc3e4590
 this is going to be change7 
+change 8 
